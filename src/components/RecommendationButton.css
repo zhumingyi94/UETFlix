@@ -1,0 +1,28 @@
+.ButtonContainer {
+    margin-top: 30px;
+}
+
+.button-style {
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: white;
+    height: 60px;
+    font-family: 'Inter', sans-serif;
+    color: #000;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    border-radius: 6px;
+}
+
+.button-icon {
+    margin-right: 8px;
+    height: 20px; /* Adjust icon size as needed */
+    width: 20px;  /* Adjust icon size as needed */
+  }
+  
+  .button-style:hover {
+    background-color: #C8C7C7;
+  }

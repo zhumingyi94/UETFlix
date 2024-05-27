@@ -1,10 +1,21 @@
 .App {
   text-align: center;
+  height: 1180px;
+  background-image: url("./image/background_img.jpg");
+  background-size: cover;
+  background-position: center;
+  overflow: hidden
 }
+
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.TextBoxMain {
+  color: #FFF;
+  font-family: 'Inter', sans-serif;
 }
 
 @media (prefers-reduced-motion: no-preference) {

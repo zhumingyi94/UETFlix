@@ -1,0 +1,14 @@
+.TextInputContainer {
+    margin-top: 60px;
+}
+
+.TextInput {
+    width: 500px;
+    height: 50px;
+    flex-shrink: 0;
+    border-radius: 7.209px;
+    border: 1.802px solid rgba(128, 128, 128, 0.70);
+    background: rgba(22, 22, 22, 0.70);
+    padding: 10px;
+    color: rgba(255, 255, 255, 0.70);
+}

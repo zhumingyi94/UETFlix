@@ -1,0 +1,31 @@
+.MainText {
+    margin-top: 250px;
+}
+.TextBoxMain {
+    flex-direction: row;
+    color: #FFFFFFCC;
+    color: rgba(255, 255, 255, 0.80);
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    font-family: 'Inter', sans-serif;
+}
+
+.h1Text {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+.pText {
+    margin-top: 40px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: normal;
+}
