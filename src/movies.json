@@ -1,0 +1,153 @@
+[
+    {
+      "user_id": 1,
+      "movies": [
+        {
+          "Name": "O Thanasis sti hora tis sfaliaras",
+          "Year": 1976
+        },
+        {
+          "Name": "National Theatre Live: Frankenstein",
+          "Year": 2011
+        },
+        {
+          "Name": "Acı Aşk",
+          "Year": 2009
+        },
+        {
+          "Name": "2",
+          "Year": 2007
+        },
+        {
+          "Name": "NOFX: Backstage Passport - The Movie",
+          "Year": 2015
+        }
+      ]
+    },
+    {
+      "user_id": 2,
+      "movies": [
+        {
+          "Name": "Truth and Justice",
+          "Year": 2019
+        },
+        {
+          "Name": "Acı Aşk",
+          "Year": 2009
+        },
+        {
+          "Name": "Final Approach",
+          "Year": 1991
+        },
+        {
+          "Name": "Cat City",
+          "Year": 1986
+        },
+        {
+          "Name": "The Thorn",
+          "Year": 1971
+        }
+      ]
+    },
+    {
+      "user_id": 3,
+      "movies": [
+        {
+          "Name": "Truth and Justice",
+          "Year": 2019
+        },
+        {
+          "Name": "Adrenaline",
+          "Year": 1990
+        },
+        {
+          "Name": "National Theatre Live: Frankenstein",
+          "Year": 2011
+        },
+        {
+          "Name": "Acı Aşk",
+          "Year": 2009
+        },
+        {
+          "Name": "NOFX: Backstage Passport - The Movie",
+          "Year": 2015
+        }
+      ]
+    },
+    {
+      "user_id": 4,
+      "movies": [
+        {
+          "Name": "Adrenaline",
+          "Year": 1990
+        },
+        {
+          "Name": "Acı Aşk",
+          "Year": 2009
+        },
+        {
+          "Name": "2",
+          "Year": 2007
+        },
+        {
+          "Name": "The Thorn",
+          "Year": 1971
+        },
+        {
+          "Name": "NOFX: Backstage Passport - The Movie",
+          "Year": 2015
+        }
+      ]
+    },
+    {
+      "user_id": 22345,
+      "movies": [
+        {
+          "Name": "Civilisation",
+          "Year": 1969
+        },
+        {
+          "Name": "Truth and Justice",
+          "Year": 2019
+        },
+        {
+          "Name": "Adrenaline",
+          "Year": 1990
+        },
+        {
+          "Name": "Acı Aşk",
+          "Year": 2009
+        },
+        {
+          "Name": "Täällä Pohjantähden alla",
+          "Year": 1968
+        }
+      ]
+    },
+    {
+      "user_id": 69,
+      "movies": [
+        {
+          "Name": "Born in the USSR: 21 Up",
+          "Year": 2005
+        },
+        {
+          "Name": "Adrenaline",
+          "Year": 1990
+        },
+        {
+          "Name": "Acı Aşk",
+          "Year": 2009
+        },
+        {
+          "Name": "The Thorn",
+          "Year": 1971
+        },
+        {
+          "Name": "NOFX: Backstage Passport - The Movie",
+          "Year": 2015
+        }
+      ]
+    }
+  ]
+  

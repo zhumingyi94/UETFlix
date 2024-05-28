@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  height: 1180px;
+  min-height: 1180px;
   background-image: url("./image/background_img.jpg");
   background-size: cover;
   background-position: center;
@@ -47,3 +47,54 @@
     transform: rotate(360deg);
   }
 }
+
+.Recommendations {
+  margin-top: 80px;
+}
+
+.Recommendations h2 {
+  margin-top: 20px;
+  font-size: 35px;
+  margin-bottom: 10px;
+  font-family: 'Inter', sans-serif;
+  color: white;
+}
+
+.Recommendations ul {
+  list-style-type: none;
+  padding: 0;
+  display: flex; /* Make list items flex containers */
+  flex-wrap: wrap; /* Allow items to wrap to new lines */
+  justify-content: center; /* Center items horizontally */
+  color: white;
+}
+
+.Recommendations li {
+  text-align: center; /* Center content within list items */
+  margin: 10px; /* Add some margin around each movie */
+}
+
+.Recommendations .movie-container {
+  display: block; /* Change to block to center content */
+}
+
+.Recommendations .movie-details {
+  margin-left: 0; /* Remove left margin (no longer needed) */
+  margin-top: 10px; /* Add some top margin for spacing */
+}
+
+.Recommendations .movie-poster {
+  width: 500px; /* Adjust poster width */
+}
+
+.Recommendations .plot-box {
+  background-color: #333;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+.Recommendations .plot {
+  color: white;
+}
+
