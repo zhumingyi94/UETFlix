@@ -101,13 +101,13 @@ Do Minh Nhat - [@your_twitter](https://twitter.com/nhatdm2k4) - dominhnhat2004@g
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/dangnq2501/TheraPose.ai.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors](https://github.com/dangnq2501/TheraPose.ai/graphs/contributors
+[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors](https://github.com/nhatdm22022537/BTL-Bigdata/graphs/contributors 
 [forks-shield]: https://img.shields.io/github/forks/dangnq2501/TheraPose.ai.svg?style=for-the-badge
-[forks-url]: https://github.com/dangnq2501/TheraPose.ai/network/members
+[forks-url]: https://github.com/nhat22022537/BTL-Bigdata/network/members
 [stars-shield]: https://img.shields.io/github/stars/dangnq2501/TheraPose.ai.svg?style=for-the-badge
-[stars-url]: https://github.com/dangnq2501/TheraPose.ai/stargazers 
+[stars-url]: https://github.com/nhat22022537/BTL-Bigdata/stargazers 
 [issues-shield]: https://img.shields.io/github/issues/dangnq2501/TheraPose.ai.svg?style=for-the-badge
-[issues-url]: https://github.com/dangnq2501/TheraPose.ai/issues
+[issues-url]: https://github.com/nhatdm22022537/BTL-Bigdata/issues
 [license-shield]: https://img.shields.io/github/license/dangnq2501/TheraPose.ai.svg?style=for-the-badge
 [license-url]: https://github.com/dangnq2501/TheraPose.ai/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
