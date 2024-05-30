@@ -8,7 +8,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## VỀ DỰ ÁN
-<img src="/src/public/icon.png" alt="Logo">
+<img src="/public/icon.png" alt="Logo">
 
 * Dự án phân tích dữ liệu lớn nhằm đề xuất gợi ý sản phẩm cho người dùng được triển khai với mục tiêu tối ưu hóa trải nghiệm mua sắm của khách hàng và tăng cường doanh số bán hàng. Hệ thống gợi ý này sử dụng các kỹ thuật phân tích dữ liệu lớn, kết hợp với các thuật toán máy học để phân tích hành vi và sở thích của người dùng, từ đó đưa ra các đề xuất sản phẩm cá nhân hóa và phù hợp với nhu cầu của từng khách hàng
 * Dự án này sẽ tập trung vào việc áp dụng các phương pháp phân tích và mô hình học máy để xây dựng một hệ thống gợi ý phim thông minh. Kết quả mong đợi là một hệ thống có khả năng học hỏi liên tục từ dữ liệu mới, cải thiện độ chính xác của các gợi ý và mang lại giá trị thực tiễn.
