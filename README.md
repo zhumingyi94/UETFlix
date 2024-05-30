@@ -8,7 +8,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## VỀ DỰ ÁN
-<img src="images/441059179_464138612770429_2748803241163572862_n.png" alt="Logo">
+<img src="/src/public/icon.png" alt="Logo">
 
 * Dự án phân tích dữ liệu lớn nhằm đề xuất gợi ý sản phẩm cho người dùng được triển khai với mục tiêu tối ưu hóa trải nghiệm mua sắm của khách hàng và tăng cường doanh số bán hàng. Hệ thống gợi ý này sử dụng các kỹ thuật phân tích dữ liệu lớn, kết hợp với các thuật toán máy học để phân tích hành vi và sở thích của người dùng, từ đó đưa ra các đề xuất sản phẩm cá nhân hóa và phù hợp với nhu cầu của từng khách hàng
 * Dự án này sẽ tập trung vào việc áp dụng các phương pháp phân tích và mô hình học máy để xây dựng một hệ thống gợi ý phim thông minh. Kết quả mong đợi là một hệ thống có khả năng học hỏi liên tục từ dữ liệu mới, cải thiện độ chính xác của các gợi ý và mang lại giá trị thực tiễn.
@@ -31,8 +31,9 @@ Một số công nghệ chính được sử dụng trong dự án bao gồm
 * [![React][React.js]][React-url]
 * [![Python][Python-badge]][Python-url]
 * [![Jupyter-notebook][Jupyter-badge]][Jupyter-url]
-
-
+* [![Flask][Flask-badge]][Flask-url]
+* [![PySpark-badge][PySpark-badge]][PySpark-url]
+* [![Hadoop-HDFS-badge][Hadoop-HDFS-badge]][Hadoop-HDFS-url]
 
 ### CÁCH CÀI ĐẶT VÀ CHẠY CODE
 
@@ -146,3 +147,9 @@ Do Minh Nhat - [@your_twitter](https://twitter.com/nhatdm2k4) - dominhnhat2004@g
 [Firebase-badge]: https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white
 [Langchain-url]: https://github.com/langchain-ai/langchain
 [Langchain-badge]: https://img.shields.io/badge/LangChain-007ACC?style=for-the-badge&logo=langchain&logoColor=white
+[Flask-badge]: https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
+[Flask-url]: https://flask.palletsprojects.com/
+[PySpark-badge]: https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white
+[PySpark-url]: https://spark.apache.org/docs/latest/api/python/
+[Hadoop-HDFS-badge]: https://img.shields.io/badge/Hadoop_HDFS-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white
+[Hadoop-HDFS-url]: https://hadoop.apache.org/hdfs/
