@@ -53,7 +53,7 @@ Một số công nghệ chính được sử dụng trong dự án bao gồm
    ```sh
    npm start
    ```
-5. Vào thư mục model
+5. Vào thư mục model/backend
   ```sh
    cd model
    ```
